@@ -3,7 +3,7 @@ import { Assistant, Rajdhani } from "next/font/google";
 import { cookies } from "next/headers";
 import { NextIntlClientProvider } from "next-intl";
 import "./globals.scss";
-import LocaleSwitcher from "../components/root/language/langSwitcher";
+import LocaleSwitcher from "../components/root/language/LocaleSwitcher";
 
 // Define fonts
 // english fonts

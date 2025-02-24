@@ -14,8 +14,6 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 - **Internationalization (i18n)** – Supports multiple languages with easy configuration.
 - **Locale Management in Cookies** – Stores and retrieves user locale preferences via cookies.
 - **App Router** – Uses the latest Next.js app directory for modern routing.
-- **Server Components** – Optimized rendering with React Server Components.
-- **SEO Optimized** – Pre-configured meta tags for better search engine visibility.
 - **ShadCN UI** – Styled components for fast and clean UI development.
 - **TypeScript** – Fully typed codebase for better developer experience.
 
@@ -47,7 +45,7 @@ This starter uses [next-intl](https://next-intl-docs.vercel.app/) for managing t
 
 1. Create a new JSON file inside `locales/` (e.g., `locales/es.json`).
 2. Add your translations inside the file.
-3. Update `i18n.config.ts` to include the new language.
+3. Update components -> 'LocaleSwitcher.tsx' to include the new language.
 
 ## Contributing
 
