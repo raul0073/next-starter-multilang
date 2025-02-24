@@ -22,8 +22,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 Clone the repository and install dependencies:
 
 ```sh
-git clone https://github.com/yourusername/next-multi-language-starter.git
-cd next-multi-language-starter
+git clone https://github.com/raul0073/next-starter-multilang.git
 pnpm install  # or npm install / yarn install
 ```
 
