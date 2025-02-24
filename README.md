@@ -16,8 +16,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 - **App Router** – Uses the latest Next.js app directory for modern routing.
 - **ShadCN UI** – Styled components for fast and clean UI development.
 - **TypeScript** – Fully typed codebase for better developer experience.
-- **Cimponent** - 1 Base section component implementing dir accordingly.
-- **Base Section Component** – Implements dir attribute for proper text direction handling in multilingual layouts.
+- **Base Section Component** – Implements dir attribute for proper text direction handling.
 ## Installation
 
 Clone the repository and install dependencies:
