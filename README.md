@@ -42,7 +42,7 @@ This starter uses [next-intl](https://next-intl-docs.vercel.app/) for managing t
 
 ### Adding a New Language
 
-1. Create a new JSON file inside `locales/` (e.g., `locales/es.json`).
+1. Create a new JSON file inside `messages/` (e.g., `messages/es.json`).
 2. Add your translations inside the file.
 3. Update components -> 'LocaleSwitcher.tsx' to include the new language.
 
